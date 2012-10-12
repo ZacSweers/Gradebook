@@ -69,24 +69,5 @@ public class Start {
 		System.out.println("* " + k + ". Add New Semester   *");
 		System.out.println("*************************");
 	}
-	
-//	public void printStudents() {
-//		System.out.print('\f');
-//		System.out.println("What would you like to do?\n");
-//		System.out.println("*************************");
-//		System.out.println("* Students              *");
-//		System.out.println("*----------             *");
-//		for (int i = 0; i < students.size(); i++) {
-//			String s = defaults[0];
-//			System.out.print("* " + i+1 + ". ");
-//			int whitespace = 20-s.length();
-//			System.out.print(s);
-//			for (int j = 0; j < whitespace; j++) {
-//				System.out.print(" ");
-//			}
-//			System.out.print("*\n");
-//		}
-//		System.out.println("*************************");
-//	}
 
 }
